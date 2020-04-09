@@ -1,0 +1,13 @@
+//
+//  debug.xcconfig
+//  VACustomBuildConfigs
+//
+//  Created by Vikash Anand on 09/04/20.
+//  Copyright © 2020 Vikash Anand. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+XCC_BUNDLE_NAME = CustomBuildConfig D
+XCC_CONFIG_PATH = Debug/Config.plist
